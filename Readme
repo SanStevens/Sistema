@@ -1,0 +1,85 @@
+----- abrir terminal do Vs Code------
+
+-digitar
+
+git remote -v
+
+--- comando para exlcuir blach
+
+-digitar 
+
+-git remote remove origin
+
+-git remote -v
+
+-git remote add origin + link do repositorio que deseja
+
+-git remote -v
+
+
+---para fazer comite clicar em soucer control no vs code
+
+---adicionar mensagem de commit no arquivo desejado 
+
+---clicar em commit
+
+---Comando para clonar repositorio git
+
+---copiar link
+
+---criar uma pasta
+
+---abrir o terminal 
+
+-digitar:
+-git clone + link do repositorio
+ 
+-didigar 
+
+-cd + nome da pasta principal que veio no repositorio
+
+-digitar 
+
+-cd lp/
+
+-digitar 
+
+-ls
+
+-digitar
+-npm install
+
+-aguardar.....
+
+-alguns  erros de segurança
+
+-digitar
+
+-npm audit fix
+
+-aguardar.....
+
+-outros eros
+
+
+-digitar 
+
+-npm audit fix --force
+
+-aguardar.....
+
+
+-digitar 
+ 
+-ls
+
+-localizar modulos
+
+-digitar 
+
+-npm start 
+
+
+-ir ate a pasta que cirou - lp
+
+-segundo botao do mouse , abrir com vs code
